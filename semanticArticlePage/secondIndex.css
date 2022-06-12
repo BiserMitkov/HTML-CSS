@@ -1,0 +1,35 @@
+article {
+    border: 1px solid #b2ad7d;
+    background-color: #f2f4c0, #e4e978, #4c7658;
+    margin: 15px 10px;
+}
+
+header h1 {
+    padding: 5px 15px;
+}
+
+article p {
+    padding: 5px 15px;
+}
+
+section article h2 {
+    padding: 5px 15px;
+}
+
+section article h3 {
+    padding: 5px 15px;
+}
+
+section {
+    font-style: italic;
+    color: #4c7658;
+}
+
+body {
+    background-color: #e4e978;
+}
+
+article {
+    background-color: #f2f4c0;
+}
+
