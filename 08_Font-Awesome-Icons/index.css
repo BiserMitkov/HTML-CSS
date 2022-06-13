@@ -1,0 +1,49 @@
+@import url('https://use.fontawesome.com/releases/v6.1.1/css/all.css');
+
+body {
+    font-family: proxima-nova, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+body nav {
+    width: 200px;
+    border: 1px solid #fffdfd;
+    font-size: 14px;
+    line-height: 20px;
+    background-color: #d1cccc;
+}
+
+ul li {
+    list-style: none;
+    line-height: 25px;
+    margin-left: -15px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #c83025;
+}
+
+ul li a i {
+    width: 1.14em;
+    padding-right: 0.28em;
+}
+
+body p button {
+    padding: 4px 12px;
+    line-height: 20px;
+    color: #ffffff;
+    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+}
+
+body .shopping {
+    background-color: #83a94c;
+}
+
+body .info {
+    Background-color: #008ed0;
+}
+
+body .delete {
+    background-color: #cc4036;
+}
