@@ -1,0 +1,38 @@
+h2 {
+    display: inline-block;
+    font-size: 40px;
+}
+
+nav {
+    display: inline-block;
+    margin-left: 50px;
+}
+
+header {
+    border-bottom: 3px solid grey;
+}
+
+li {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+body  header{
+    font-family: 'Helvetica', 'sans-serif';
+}
+
+h1 {
+    font-weight: 200;
+}
+
+li a {
+    text-decoration: none;
+    color: green;
+}
+
+
+
+
+
+
+
