@@ -1,0 +1,20 @@
+.gallery li{
+    display: inline-block;
+    
+}
+
+img {
+    border: 0.4rem solid black;
+}
+
+.third img {
+    width: 300px;
+}
+
+ul {
+    text-align: center;
+}
+
+li img {
+    padding: 8px 8px;
+}
